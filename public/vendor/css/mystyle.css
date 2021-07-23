@@ -1,0 +1,16 @@
+body {
+    padding-top: 56px;
+}
+
+.text {
+    width: 5%;
+    height: 10px;
+    overflow: auto;
+    max-width: 0;
+}
+
+.text-full{
+    width: 100%;
+    height: 70px;
+    overflow: scroll;
+}
